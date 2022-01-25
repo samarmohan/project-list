@@ -1,10 +1,26 @@
 # ideas
-Ideas I may or may not implement. If you want to implement one that's not in progress, the only requirement is that you make it open source.
+I'll implement these so my portfolio looks cool
 
-- URL Shortner, Hit counter, and tracker [in prog](https://github.com/samarmohan/lonk_api) (fullstack typescript)
-- App that shows pictures of animals to make you feel happy if you're having a bad day (flutter/firebase)
-- If you run a tutoring club, keep track of everything here :) [in prog](https://github.com/samarmohan/tutiz) (flutter/firebase)
+lonk (api-only) - link shortner that tracks you
+word-utils (web,mobile) - transform text snippets
+book-worm (full product) - share the books you're reading
+tutiz (full product) - one stop shop for tutoring clubs
+react-text-loop-next (library) - modern fork of react-text-loop for new versions of React.
 
+### Implemented
 
-- migrate word-utils to an app
-- migrate book-database to an app
+word-utils (web) - React, TailwindCSS, ChakraUI
+book-worm (web) - Django, Bootstrap
+react-text-loop-next - React
+
+### In Progress
+
+lonk - Django
+tutiz (api) - Django
+book-worm (api) - Django
+
+### Not Started
+
+book-worm (mobile) - Flutter/api
+word-utils (mobile) - Flutter
+tutiz (web,mobile) - Flutter/api
