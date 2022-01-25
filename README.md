@@ -16,14 +16,14 @@ I'll implement these so my portfolio looks cool
 ### Implemented
 
 - word-utils (web) - React, TailwindCSS, ChakraUI
-- book-worm (web) - Django, Bootstrap
+- book-worm (web) - Django (the site is crappy and barely works), Bootstrap
 - react-text-loop-next - React
 
 ### In Progress
 
-- lonk - Django
-- tutiz (api) - Django
-- book-worm (api) - Django
+- lonk - TypeScript
+- tutiz (api) - Rails
+- book-worm (api) - Rails
 
 ### Not Started
 
