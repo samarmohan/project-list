@@ -4,14 +4,15 @@ I'll implement these so my portfolio looks cool
 - lonk (api-only) - link shortner that tracks you
 - word-utils (web,mobile) - transform text snippets
 - book-worm (full product) - share the books you're reading
-- tutiz (full product) - one stop shop for tutoring clubs
 - react-text-loop-next (library) - modern fork of react-text-loop for new versions of React.
 
+not this one yet
+- tutiz (full product) - one stop shop for tutoring clubs
+
 ### Priority
-- Fix book-worm(web)
 - lonk
+- quoz
 - complete book-worm
-- tutiz
 
 ### Implemented
 
